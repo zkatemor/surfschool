@@ -1,14 +1,11 @@
 package com.zkatemor.two_panel
 
-import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.LinearLayout
 import android.widget.Toolbar
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.fragment_textview.*
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
